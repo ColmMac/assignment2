@@ -1,0 +1,7 @@
+Edinburgh Castle Station:
+Period covered: 2025-11-01 to 2025-11-30
+Total days of data: 30
+Average highest temperature is 8.3 celsius
+Average maximum wind speed is 30.7 mph
+Highest recorded temperature was 12.2 on 2025-11-09
+Highest wind speed in mph was 47.5 on 2025-11-04
